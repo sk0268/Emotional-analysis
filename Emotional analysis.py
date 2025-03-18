@@ -9,4 +9,4 @@ if sentiment_score['compound'] <= -0.05:
 elif sentiment_score['compound'] >= 0.05:
     print("No immediate threat detected: Positive sentiment")
 else:
-    print("Neutral sentiment: Further analysis may be needed")
+    print("Neutral sentiment: Further analysis ma be needed")
